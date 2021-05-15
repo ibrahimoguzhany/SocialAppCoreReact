@@ -61,3 +61,7 @@ C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\api\bin\Debug\net5.0\
 C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\api\bin\Debug\net5.0\MediatR.dll
+C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\oguzhan\Desktop\projects\newProjects\Reactivities\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
